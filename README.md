@@ -1,4 +1,5 @@
 
+<img src="https://raw.githubusercontent.com/goldstring/goldstring/refs/heads/main/images/wallpaper_001.jpg" />
 # 👋 Hi, I'm Yash Parab.
 
 🚀 **Full-Stack PHP Developer | Aspiring Data Scientist & ML Engineer**  
