@@ -2,10 +2,12 @@
 <img src="https://raw.githubusercontent.com/goldstring/goldstring/refs/heads/main/images/wallpaper_001.jpg" />
 # 👋 Hi, I'm Yash Parab.
 
-🚀 **Full-Stack PHP Developer | Aspiring Data Scientist & ML Engineer**  
-🔹 2.3 years of experience as a **PHP Full-Stack Developer**  
-🔹 Passionate about **data science, machine learning, and analytics**  
-🔹 Transitioning from web development to **data-driven problem-solving**  
+🚀 **Full-Stack PHP Developer | Aspiring ML Engineer**  
+<section>
+    <p>With over 2 years of experience as a Full-Stack PHP Developer, I’ve gained deep expertise in web development using technologies like PHP, MySQL, JavaScript, and various front-end frameworks. As I transition into the world of Machine Learning, I am honing my skills in Python, TensorFlow, and AI-driven solutions to bridge the gap between web development and intelligent data analysis.</p>
+    <p>I’m passionate about leveraging my strong technical background to solve complex problems with innovative AI and machine learning approaches. Currently, I am focused on enhancing my knowledge in data analytics and machine learning algorithms to apply them effectively in real-world applications.</p>
+</section>
+
 
 ---
 
